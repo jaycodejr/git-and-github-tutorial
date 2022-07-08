@@ -21,3 +21,8 @@ GIT AND GITHUB CONFIGURATION STEPS
     i. Open terminal line and run the following command
     - git checkout -b "<branch name>"
         -> creates new branch and switches to the new created branch
+
+4. Merge two branches
+    i. Open terminal and run the following command
+    - git merge "<branchA>"
+        -> merges current branch with branchA
