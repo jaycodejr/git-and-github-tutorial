@@ -1,5 +1,18 @@
 GIT AND GITHUB CONFIGURATION STEPS
 1. Configure git on PC
-    Commands
+    i. Open terminal and run the following commands
     - git config --global user.name "<your username>"
     - git config --global user.email "<your email address>"
+
+2. How to create a project and push to github
+    i. Create a repository on your github account
+    ii. Create a project and navigate to the project folder
+    iii. Run the following commands
+    - git init
+        -> tells git to start tracking the project
+    - git branch -M main
+        -> changes master name branch to main
+    - git remote add origin "<remote repo url>"
+        -> link remote repo to local PC
+    - git push -u origin main
+        -> pushes local project to the remote repository
