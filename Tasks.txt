@@ -1,0 +1,5 @@
+GIT AND GITHUB CONFIGURATION STEPS
+1. Configure git on PC
+    Commands
+    - git config --global user.name "<your username>"
+    - git config --global user.email "<your email address>"
