@@ -31,3 +31,6 @@ GIT AND GITHUB CONFIGURATION STEPS
     i. Local branch command
     - git branch -d "<branchA>"
         -> deletes branchA from local PC
+    ii. Remote branch command
+    - git push origin --delete "<branchA>"
+        -> deletes branchA from remote repository
