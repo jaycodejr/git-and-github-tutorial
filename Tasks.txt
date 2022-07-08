@@ -16,3 +16,8 @@ GIT AND GITHUB CONFIGURATION STEPS
         -> link remote repo to local PC
     - git push -u origin main
         -> pushes local project to the remote repository
+
+3. Create new branch
+    i. Open terminal line and run the following command
+    - git checkout -b "<branch name>"
+        -> creates new branch and switches to the new created branch
