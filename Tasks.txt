@@ -26,3 +26,8 @@ GIT AND GITHUB CONFIGURATION STEPS
     i. Open terminal and run the following command
     - git merge "<branchA>"
         -> merges current branch with branchA
+
+5. Delete branch
+    i. Local branch command
+    - git branch -d "<branchA>"
+        -> deletes branchA from local PC
